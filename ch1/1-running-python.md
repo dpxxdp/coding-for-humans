@@ -7,7 +7,7 @@ The python package that comes pre-installed on Mac OS X is a whole bunch of soft
 A taste of python code:
 
 ```python
-print "Hi Ron!"
+print "hello, world"
 ```
 
 ```python
@@ -33,7 +33,7 @@ In Terminal, run:
 python
 ```
 
-When you execute this, your terminal prompt will probably turn into a blinking `>`.  This means the python interpreter is running directly in your terminal.  Now give it some text, `print "hello, world"` and hit enter. You will see that it interprets and runs the commands immediately.
+When you execute this, your terminal prompt will probably turn into a blinking `>`.  This means the python interpreter is running directly in your terminal.  Now give it some text, `print "hello, world"` and hit enter. You will see that it interprets and runs the commands immediately.**
 
 Likewise, try running `printToScreen "hello, world"`.  What happens?
 
@@ -79,8 +79,21 @@ Once you're done with the python interpreter, type `quit()` and hit enter.  This
 
 ###python using scripts
 
-Running python in the terminal was 
+Running python in the terminal was cool, and it is great for running quick calculations and testing little bits of code, but you can see where that might not be entirely useful for building a large program.  There's another way the python interpreter works its magic: on scripts.
 
-##Hello World
+I've created a file called hello-world.py.  Inside, there is one line of text: `print "hello, world`.
 
-It is somewhat (tradition)[http://en.wikipedia.org/wiki/%22Hello,_world!%22_program] for the first program you write in any language to make the computer say "hello, world".
+In Terminal, while you're in the same directory as that file, run `python hello-world.py`.  Works pretty much like you'd expect it to...
+
+When you run `python <any-python-script>.py` the interpreter runs all of the python in that file.  Try creating a new file, call it `tip-calc.py` and save it in this directory.  Inside just put two lines of code:
+
+```python
+cost = 30
+tip = cost * .20
+print tip
+```
+
+Now save the file and run `python tip-calc.py`.  Everything go as expected?
+
+
+**It is somewhat [tradition](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) for the first program you write in any language to make the computer say "hello, world".
