@@ -19,6 +19,6 @@ This tutorial is completely open-source, you may fork, edit, or redistribute the
 
 Tips are more than welcome:
 
-![Bitcoin Address](http://imgur.com/E6jo8RO)
+<a href="http://imgur.com/E6jo8RO"><img src="http://i.imgur.com/E6jo8RO.png" title="Bitcoin Address" /></a>
 
 1Pu3xmyhfVxPyVHzZLXCKYoReLwTbRcWws
