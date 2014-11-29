@@ -48,4 +48,4 @@ python get-pip.py
 `curl` is a command you haven't learned yet, but it downloaded a file called get-pip.py.  But does the second command seem familiar?  That file is a python script.  It's much longer and more complicated than anything you learned in chapter one.  But try `cat get-pip.py` to see the contents of the file if you're interested.
 
 
-[< Previous](../one/first_project_5.md) | [Appendix](../appendix.md) | [Next >](./github.md)
+[< Previous](../one/first_project_5.md) | [Appendix](../appendix.md) | [Next >](./github_2.md)
