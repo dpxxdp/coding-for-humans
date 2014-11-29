@@ -21,9 +21,3 @@ For navigation, use the [Appendix]().
 This tutorial is designed for consumption on a Mac.  Much of it will translate smoothly to a Linux machine, but a disclaimer: I do not write any of this with that in mind. Hopefully someone out there can translate, maybe add a version for Windows.
 
 This tutorial is completely open-source, you may fork, edit, or redistribute the code.  
-
-Tips are more than welcome:
-
-<a href="http://imgur.com/E6jo8RO"><img src="http://i.imgur.com/E6jo8RO.png" title="Bitcoin Address" /></a>
-
-1Pu3xmyhfVxPyVHzZLXCKYoReLwTbRcWws
