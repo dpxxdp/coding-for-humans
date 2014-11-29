@@ -70,3 +70,12 @@ print "A generous tip: " + generousTip
 ```
 
 There's nothing new here.  Just note that you can use `+` to **concatenate** two strings (or in this case a string and whatever is in the variable) together into one.
+
+<hr>
+
+### Step Back
+
+That was a lot to take in.  But as you continue to work through these, you will become more familiar with the language that is python.  We have only just scratched the surface of what python can do.  Remember- this language is used by NASA.  And to get you one step closer to launching space shuttles from your terminal, we're going to introduce you to the most important concept you have yet to see- Functions.
+
+[< Previous](./python_the_holy_grail_2.md) | [Appendix](../appendix.md) | [Next >](./function_of_the_mind_4.md)
+
