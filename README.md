@@ -21,3 +21,7 @@ For navigation, use the [Appendix](./appendix.md).
 This tutorial is designed for consumption on a Mac.  Much of it will translate smoothly to a Linux machine, but a disclaimer: I do not write any of this with that in mind. Hopefully someone out there can translate, maybe add a version for Windows.
 
 This tutorial is completely open-source, you may fork, edit, or redistribute the code.  
+
+<div class="cb-tip-button" data-content-location="https://github.com/dpxxdp/coding-for-humans" data-href="//www.coinbase.com/tip_buttons/show_tip" data-to-user-id="538c68dda3f09d082c00004a"></div>
+<script>!function(d,s,id) {var js,cjs=d.getElementsByTagName(s)[0],e=d.getElementById(id);if(e){return;}js=d.createElement(s);js.id=id;js.src="https://www.coinbase.com/assets/tips.js";cjs.parentNode.insertBefore(js,cjs);}(document, 'script', 'coinbase-tips');</script>
+
