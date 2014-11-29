@@ -24,3 +24,4 @@ git status
 git commit
 ```
 
+[< Previous](./battle_station_1.md) | [Appendix](../appendix.md) | [Next >](./github.md)
