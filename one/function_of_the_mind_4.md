@@ -100,4 +100,4 @@ Functions are hugely important in programming.  They allow us to write a bit of 
 
 Variables and Functions are our two basic building blocks for everything else we need to know.  Lets build something bigger to cap off the first chapter.
 
-[< Previous](./no_magic_here_3.md) | [Appendix](../appendix.md) | [Next >]()
+[< Previous](./no_magic_here_3.md) | [Appendix](../appendix.md) | [Next >](./first_project_5.md)
