@@ -127,6 +127,8 @@ If you ever try to run a command and you receive an error that says "access deni
 WARNING: when you run commands as "sudo", there is nothing to prevent you from deleting an important system file or installing a virus.  You're in the big leagues now, a small mistake using `sudo` can seriously mess up your computer.
 </span>
 
+[< Previous](../README.md) | [Appendix](../appendix.md) | [Next >](./python_the_holy_grail_2.md)
+
 ----------------
 #####Answers
 ----------------
