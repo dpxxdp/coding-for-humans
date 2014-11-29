@@ -128,7 +128,7 @@ Now save the file and run `python tip-calc.py`.  Everything go as expected?
 
 Let's go a little further with tip-calc, before we move on to bigger and better programs.
 
-[<- Previous Lesson]() | [Next Lesson ->]()
+[< Previous](./human_meet_computer_1.md) | [Appendix](../appendix.md) | [Next >](./no_magic_here_3.md)
 
 ----------------------------
 **It is somewhat [tradition](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) for the first program you write in any language to make the computer say "hello, world".
