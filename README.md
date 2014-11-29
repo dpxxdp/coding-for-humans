@@ -1,5 +1,5 @@
 
-#Coding for People
+#Coding for Humans
 
 Welcome to the world of computers.  You are now entering uncharted territory.
 
@@ -13,9 +13,9 @@ This journey is designed for those humans who have little to no experience with 
 
 This tutorial is to be used in conjunction with the most expansive knowledge-base ever built: the internet.  When you get stuck on a problem or have a question, Google away.  Be not afraid of forums.  Ask [reddit](http://www.reddit.com/r/learnprogramming).  Make a [Stack Overflow](http://stackoverflow.com/) account.  Every time you use the internet, you are using the most up-to-date collection of knowledge and educational tools humanity has ever known.  Each of the following chapters is but a launching point into a much more grande universe of ideas.  Spend the most time on the ideas that excite you.  If you learn nothing else, the ability to solve a difficult problem with the entire internet at your disposal is a most worthwhile skill.
 
-With that, let us dive down into the depths of your computer: [Chapter 1]()
+With that, let us dive down into the depths of your computer: [Chapter 1](./one/human_meet_computer_1.md)
 
-For navigation, use the [Appendix]().
+For navigation, use the [Appendix](./appendix.md).
 
 -------------------
 This tutorial is designed for consumption on a Mac.  Much of it will translate smoothly to a Linux machine, but a disclaimer: I do not write any of this with that in mind. Hopefully someone out there can translate, maybe add a version for Windows.
